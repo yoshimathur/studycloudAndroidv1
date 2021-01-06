@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "824463326905",
+    "firebase_url": "https://tutorhub-d7387.firebaseio.com",
+    "project_id": "tutorhub-d7387",
+    "storage_bucket": "tutorhub-d7387.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824463326905:android:9a6d0b25402974a691e568",
+        "android_client_info": {
+          "package_name": "com.yashmathur.study_cloud_android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "824463326905-3v57hokn28tsbg4p4rqierjo4udcihrg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvQMkf9xq5T3p4ZmsjKXcBnCw1mqWozuQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "824463326905-3v57hokn28tsbg4p4rqierjo4udcihrg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "824463326905-16mmdt2m29c6drjd72gen2v276u1uktl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.yashmathur.StudyCloud"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
